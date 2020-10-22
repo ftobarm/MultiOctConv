@@ -16,3 +16,6 @@ This repository provides a PyTorch implementation for Multi-Octave Convolution, 
 <br/>
 
 ## Examples of Usage
+
+* [MultiOctMNIST](https://github.com/ftobarm/M-OctConvMNIST): Implementation of MNIST classifier using M-OctConvolutions
+* [M-OctConvStarGAN](https://github.com/ftobarm/M-OctConvStarGAN): Implementation of StarGAN model using M-OctConvolutions
