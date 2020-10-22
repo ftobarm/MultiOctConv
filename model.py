@@ -1,5 +1,5 @@
 import torch
-import core.octUtils as  octUtils
+import MultiOctConv.utils as  octUtils
 
 """
 Class that apply a Normalization layer in each frequency of a M-OctConv output
